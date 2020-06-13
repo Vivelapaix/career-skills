@@ -761,25 +761,86 @@ This is a dropdown with text!
 
 <details><summary>Java 8</summary><blockquote>
 
+**_Expected for selected level:_**
+
 <details><summary>Concurrency</summary><blockquote>
-This is a dropdown with text!
+
+---
+Success criteria:
++ CompletableFuture
++ StampedLock
++ LongAdder, DoubleAdder
++ Parallel sorting
+---
+Materials:
++ [CompletableFuture in Java 8](https://youtu.be/-MBPQ7NIL_Y)
++ [Guide to CompletableFuture](http://www.baeldung.com/java-completablefuture)
++ [Java 8 concurrency](http://winterbe.com/posts/2015/04/07/java8-concurrency-tutorial-thread-executor-examples/)
++ [Java Parallel Sorting Blog](https://www.javacodegeeks.com/2013/04/arrays-sort-versus-arrays-parallelsort.html)
++ [New Concurrency Utilities in Java 8](https://youtu.be/Q_0_1mKTlnY)
+---
 </blockquote></details>
 
 <details><summary>Interface’s Default and Static Methods</summary><blockquote>
-This is a dropdown with text!
+
+---
+Success criteria:
++ New default methods in JDK
++ Static methods in interfaces
+---
+Materials:
++ [Default Methods](http://docs.oracle.com/javase/tutorial/java/IandI/defaultmethods.html)
++ [Everything about Java 8](http://www.techempower.com/blog/2013/03/26/everything-about-java-8/)
++ [Interface Default and Static Method Reference](https://softwarecave.org/2017/02/13/default-and-static-methods-in-interfaces-in-java-8/)
+---
 </blockquote></details>
 
 <details><summary>Lambdas and Functional Interfaces</summary><blockquote>
-This is a dropdown with text!
+
+---
+Success criteria:
++ Lambda expressions syntax
++ Method references
++ Purpose of @FunctionalInterface
++ API support for functional style (java.util.function)
+---
+Materials:
++ [Java 8 in action](https://www.manning.com/books/java-8-in-action)
++ [Your questions answered: all about Lambdas and friends](http://www.lambdafaq.org/)
+---
 </blockquote></details>
 
 <details><summary>Significant Java 8 API changes</summary><blockquote>
-This is a dropdown with text!
+
+---
+Success criteria:
++ Optional class
++ New Date/Time API
+---
+Materials:
++ [DZone's Guide to Modern Java](https://dzone.com/guides/modern-java)
++ [Guide to Java 8 Optional](https://www.baeldung.com/java-optional)
++ [Java 8 Time and Date API Reference (1)](http://mattgreencroft.blogspot.com/2014/12/java-8-time-choosing-right-object.html)
++ [Java 8 Time and Date API Reference (2)](https://blog.tompawlak.org/java-8-conversion-new-date-time-api)
++ [Java 8 Time and Date API Reference (3)](https://www.nagarro.com/en/perspectives/post/28/java-8-new-date-and-time-api)
+---
 </blockquote></details>
 
 <details><summary>Streams</summary><blockquote>
-This is a dropdown with text!
+
+---
+Success criteria:
++ Intermediate and terminal operations
++ Classes from java.util.stream (Stream, StreamSupport, Spliterator), streams of primitives
++ Sequential and parallel streams
++ Standard streams (map, filter, sum, etc)
+---
+Materials:
++ [Part 2: Processing Data with Java SE 8 Streams](http://www.oracle.com/technetwork/articles/java/architect-streams-pt2-2227132.html)
++ [Processing Data with Java SE 8 Streams, Part 1](http://www.oracle.com/technetwork/articles/java/ma14-java-se-8-streams-2177646.html)
+---
 </blockquote></details>
+
 </blockquote></details>
 
 <details><summary>Application Layer Frameworks</summary><blockquote>
