@@ -787,7 +787,226 @@ This is a dropdown with text!
 <details><summary>Spring Framework</summary><blockquote>
 
 <details><summary>Spring Core</summary><blockquote>
-This is a dropdown with text!
+
+**_Expected for selected level:_**
+
+<details><summary>Beans, IoC Container</summary><blockquote>
+
+---
+Success criteria:
++ Container and Beans overview
++ Dependencies
++ Bean scopes
++ Customizing the nature of a bean
++ Bean definition inheritance
++ Container Extension Points
++ XML based container configuration
++ Annotation-based container configuration
++ Classpath scanning and managed components
++ Using JSR 330 Standard Annotations
++ Java-based container configuration
++ Additional Capabilities of the ApplicationContext
++ The BeanFactory
+---
+Materials:
++ [Beans, IoC Container](https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#beans)
++ [Spring Fundamentals](https://www.pluralsight.com/courses/spring-fundamentals)
+---
+</blockquote></details>
+
+<details><summary>Resources files handling</summary><blockquote>
+
+---
+Success criteria:
++ The Resource interface
++ The ResourceLoader
++ Resources as dependencies
++ Application contexts and Resource paths
+---
+Materials:
++ [Resources files handling](https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#resources)
+---
+</blockquote></details>
+
+<details><summary>AOP with Spring - Intermediate</summary><blockquote>
+
+---
+Success criteria:
++ AOP Introduction
++ Built in proxying mechanisms
+---
+Materials:
++ [AOP with Spring - Intermediate](https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#aop)
+---
+</blockquote></details>
+
+<details><summary>EJB</summary><blockquote>
+
+---
+Success criteria:
++ Accessing EJBs
++ Spring’s EJB implementation support
+---
+Materials:
++ [EJB](https://docs.spring.io/spring/docs/current/spring-framework-reference/integration.html#ejb)
+---
+</blockquote></details>
+
+<details><summary>Introduction to Spring Testing</summary><blockquote>
+
+---
+Success criteria:
++ Introduction to Spring Testing
++ Unit Testing
++ Integration Testing
++ MVC Test Framework
+---
+Materials:
++ [Introduction to Spring Testing](https://docs.spring.io/spring/docs/current/spring-framework-reference/testing.html#testing-introduction)
+---
+</blockquote></details>
+
+<details><summary>JMS</summary><blockquote>
+
+---
+Success criteria:
++ Using Spring JMS
++ Sending a Message
++ Receiving a message
+---
+Materials:
++ [JMS](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/jms.html)
+---
+</blockquote></details>
+
+<details><summary>Spring MVC Framework</summary><blockquote>
+
+---
+Success criteria:
++ The DispatcherServlet
++ Implementing Controllers
++ Handler mappings
++ Resolving views
++ Building URIs
++ Using locales
++ Using themes
++ Spring’s multipart (file upload) support
++ Handling exceptions
++ Web Security
++ Convention over configuration support
++ HTTP caching support
++ Configuring Spring MVC
+---
+Materials:
++ [Spring MVC Framework](https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html#mvc)
+---
+</blockquote></details>
+
+<details><summary>Spring.MVC Framework. REST Implementation</summary><blockquote>
+
+---
+Success criteria:
++ Creating REST Controllers
++ RestTemplate usage
++ HTTP Message Conversion
++ Async RestTemplate
++ Creating asynchronous controller
+---
+Materials:
++ [Architecting Web Applications with Spring](https://www.pluralsight.com/courses/architecting-web-applications-spring)
++ [Spring.MVC Framework. REST Implementation(1)](https://docs.spring.io/spring-framework/docs/4.3.13.RELEASE/spring-framework-reference/html/mvc.html#mvc-controller)
++ [Spring.MVC Framework. REST Implementation(2)](https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/web.html#mvc-controller)
++ [Spring.MVC Framework. REST Implementation](https://spring.io/guides/gs/rest-service/)
+---
+</blockquote></details>
+
+<details><summary>Validation, Data Binding, and Type Conversion</summary><blockquote>
+
+---
+Success criteria:
++ Resolving codes to error messages
++ Bean manipulation and the BeanWrapper
++ Spring Type Conversion
++ Spring Field Formatting
++ Configuring a global date & time format
++ Spring Validation
+---
+Materials:
++ [Validation, Data Binding, and Type Conversion(1)](https://docs.spring.io/spring-framework/docs/4.3.13.RELEASE/spring-framework-reference/html/validation.html)
++ [Validation, Data Binding, and Type Conversion(2)](https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/core.html#validation)
+---
+</blockquote></details>
+
+<details><summary>AOP with Spring - Advanced</summary><blockquote>
+
+---
+Success criteria:
++ @AspectJ support
++ Using AspectJ with Spring applications
++ Schema-based AOP support
++ Mixing aspect types
++ Pointcut API in Spring
++ Advice API in Spring
++ Advisor API in Spring
++ Using the ProxyFactoryBean to create AOP proxies
++ Concise proxy definitions
++ Creating AOP proxies programmatically with the ProxyFactory
++ Manipulating advised objects
++ Using TargetSources
++ Defining new Advice types
+---
+Materials:
++ [AOP using Spring AOP and AspectJ](https://www.pluralsight.com/courses/aspect-oriented-programming-spring-aspectj)
++ [AOP with Spring - Advanced](https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#aop-api)
+---
+</blockquote></details>
+
+<details><summary>Cache Abstraction</summary><blockquote>
+
+---
+Success criteria:
++ Declarative annotation-based caching
++ Declarative XML-based caching
++ Configuring the cache storage
++ Plugging-in different back-end caches
+---
+Materials:
++ [Cache Abstraction](https://docs.spring.io/spring/docs/current/spring-framework-reference/integration.html#cache)
++ [Cache Providers](http://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-caching.html)
+---
+</blockquote></details>
+
+<details><summary>JMX</summary><blockquote>
+
+---
+Success criteria:
++ Exporting your beans to JMX
++ Controlling the management interface of your beans
++ Controlling the ObjectNames for your beans
++ JSR-160 Connectors
++ Accessing MBeans via Proxies
++ Notifications
+---
+Materials:
++ [JMX](http://docs.spring.io/autorepo/docs/spring/3.2.x/spring-framework-reference/html/jmx.html)
+---
+</blockquote></details>
+
+<details><summary>Task Execution and Scheduling</summary><blockquote>
+
+---
+Success criteria:
++ The Spring TaskExecutor
++ The Spring TaskScheduler
++ Annotation Support
++ The Task Namespace
++ Using the Quartz Scheduler
+---
+Materials:
++ [Task Execution and Scheduling](https://docs.spring.io/spring/docs/current/spring-framework-reference/integration.html#scheduling)
+---
+</blockquote></details>
+
 </blockquote></details>
 
 <details><summary>Spring Data</summary><blockquote>
