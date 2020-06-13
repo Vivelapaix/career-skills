@@ -1115,19 +1115,80 @@ Materials:
 </blockquote></details>
 
 <details><summary>Spring Security</summary><blockquote>
-This is a dropdown with text!
+  
+**_Expected for selected level:_**
+
+<details><summary>Security Namespace Configuration</summary><blockquote>
+
+---
+Success criteria:
++ web.xml Configuration
++ A Minimal <http> Configuration
++ Using other Authentication Providers
++ Adding a Password Encoder
+---
+Materials:
++ [Security Namespace Configuration](http://docs.spring.io/spring-security/site/docs/current/reference/htmlsingle/#ns-getting-started)
+---
+</blockquote></details>
+
+<details><summary>Spring Security configuration</summary><blockquote>
+
+---
+Success criteria:
++ Configuring URL for authentication
++ Generate login form
++ CSRF attack prevention
++ Session Fixation protection
++ Security Header integration
+---
+Materials:
++ [Spring Boot Security Configuration](https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-security.html)
++ [Spring Security configuration](http://docs.spring.io/spring-security/site/docs/current/reference/htmlsingle/#jc)
+---
+</blockquote></details>
+
+<details><summary>Advanced Web Features</summary><blockquote>
+
+---
+Success criteria:
++ Remember-Me Authentication
++ Adding HTTP/HTTPS Channel Security
++ Session Management
++ Detecting Timeouts
++ Concurrent Session Control
++ Adding in Your Own Filters
++ Setting a Custom AuthenticationEntryPoint
+---
+Materials:
++ [Advanced Web Features](http://docs.spring.io/spring-security/site/docs/current/reference/htmlsingle/#ns-web-advanced)
+---
+</blockquote></details>
+
 </blockquote></details>
 
 <details><summary>Spring Cloud</summary><blockquote>
-This is a dropdown with text!
+  
+**_Expected for selected level:_**
+
+
+
 </blockquote></details>
 
 <details><summary>Spring Session</summary><blockquote>
-This is a dropdown with text!
+  
+**_Expected for selected level:_**
+
+
+
 </blockquote></details>
 
 <details><summary>Spring Batch</summary><blockquote>
-This is a dropdown with text!
+  
+**_Expected for selected level:_**
+
+
+
 </blockquote></details>
 
 </blockquote></details>
