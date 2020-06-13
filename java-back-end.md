@@ -1208,7 +1208,66 @@ Materials:
   
 **_Expected for selected level:_**
 
+<details><summary>ItemWriters and itemReaders</summary><blockquote>
 
+---
+Success criteria:
++ No criteria defined for that topic
+---
+Materials:
++ [Add link]()
+---
+</blockquote></details>
+
+<details><summary>Jobs and Steps</summary><blockquote>
+
+---
+Success criteria:
++ Jobs Configuration
++ Running and Stopping a Job
++ Steps Configuration
++ Step Logic and Step Flow
+---
+Materials:
++ [Add link]()
+---
+</blockquote></details>
+
+<details><summary>Spring Batch Overview</summary><blockquote>
+
+---
+Success criteria:
++ Architecture - Application, Batch Core and Batch Infrastructure
++ Domain Langugage - Job, Step, ItemReader, ItemWriter and ItemProcessor
+---
+Materials:
++ [Add link]()
+---
+</blockquote></details>
+
+**_Optional for selected level:_**
+
+<details><summary>Resilience</summary><blockquote>
+
+---
+Success criteria:
++ No criteria defined for that topic
+---
+Materials:
++ [Add link]()
+---
+</blockquote></details>
+
+<details><summary>Scaling and Parallel Processing</summary><blockquote>
+
+---
+Success criteria:
++ No criteria defined for that topic
+---
+Materials:
++ [Add link]()
+---
+</blockquote></details>
 
 </blockquote></details>
 
