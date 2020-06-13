@@ -1,5 +1,190 @@
 <details> <summary>HARD SKILLS</summary><blockquote>
+
+<details><summary>Base IT knowledge</summary><blockquote>
   
+<details><summary>Computer science</summary><blockquote>
+
+**_Expected for selected level:_**
+
+<details><summary>Basic data structures</summary><blockquote>
+
+---
+Success criteria:
++ Primitive data types
++ Array
++ Linked List
++ Stack
++ Map/Dictionary
++ Queue
++ Deque
+---
+Materials:
++ [Array Data Structure](http://en.wikipedia.org/wiki/Array_data_structure)
++ [Implementations](https://docs.oracle.com/javase/tutorial/collections/implementations/index.html)
++ [Queue](http://en.wikipedia.org/wiki/Queue_(abstract_data_type))
++ [Stack](http://en.wikipedia.org/wiki/Stack_(abstract_data_type))
+---
+</blockquote></details>
+
+<details><summary>Recursion</summary><blockquote>
+
+---
+Success criteria:
++ Recursion vs Iteration
++ Head vs Tail recursion
+---
+Materials:
++ [Recursion](http://en.wikipedia.org/wiki/Recursion_(computer_science))
++ [Recursive Programming](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Recursions/recursions.html)
++ [Replace Recursion with Iteration](https://www.refactoring.com/catalog/replaceRecursionWithIteration.html)
+---
+</blockquote></details>
+
+<details><summary>Advanced data structures</summary><blockquote>
+
+---
+Success criteria:
++ Heap
++ Trees
++ Self-balanced trees (red-black, B-tree)
++ Graph definition
++ Graph types
++ Common graph problems
++ Concurrency data structures
+---
+Materials:
++ [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
++ [Collections cheat-sheet](http://zeroturnaround.com/wp-content/uploads/2016/04/Java-Collections-cheat-sheet.png)
++ [Implementations](https://docs.oracle.com/javase/tutorial/collections/implementations/index.html)
+---
+</blockquote></details>
+
+<details><summary>Basic algorithms</summary><blockquote>
+
+---
+Success criteria:
++ Big-O notation
++ Divide-and-conquer algorithms
++ Randomized algorithms
++ Quick sort
++ Merge sort
++ Greedy algorithms
++ Lists manipulations
++ Binary search
+---
+Materials:
++ [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
++ [Algorithms: Design and Analysis, Part 1](https://www.coursera.org/course/algo)
++ [Thomas H Cormen: Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
+---
+</blockquote></details>
+
+<details><summary>Basic data structures internals</summary><blockquote>
+
+---
+Success criteria:
++ Basic data structures implementation details (for particular technology stack). Ex: ArrayList, LinkedList, HashMap
+---
+Materials:
++ [Hash Table](http://en.wikipedia.org/wiki/Hash_table)
++ [Implementations](https://docs.oracle.com/javase/tutorial/collections/implementations/index.html)
+---
+</blockquote></details>
+
+**_Optional for selected level:_**
+
+<details><summary>Advanced algorithms</summary><blockquote>
+
+---
+Success criteria:
++ Sequence alignment
++ Binary search tree
++ Tree traversal
++ Minimum spanning tree
++ Clustering
++ Depths first search
++ Breadth first search
++ Dijkstra shortest path
++ Dynamic programming
++ Knapsack problem
++ Travelling Salesman Problem
+---
+Materials:
++ [Algorithms (4th Edition) 4th Edition](Algorithms (4th Edition) 4th Edition by Robert Sedgewick (Author), Kevin Wayne (Author))
++ [Algorithms: Design and Analysis, Part 1](https://www.coursera.org/course/algo)
++ [Algorithms: Design and Analysis, Part 2](https://www.coursera.org/course/algo2)
++ [Basic Sorting algorithms](http://en.wikipedia.org/wiki/Sorting_algorithm)
++ [Red black tree](http://en.wikipedia.org/wiki/Red%E2%80%93black_tree)
++ [Trees](http://en.wikipedia.org/wiki/Tree_(data_structure))
++ [Understanding algorithm complexity](http://en.wikipedia.org/wiki/Analysis_of_algorithms)
+---
+</blockquote></details>
+
+<details><summary>Cryptography</summary><blockquote>
+
+---
+Success criteria:
++ Symmetric cryptography
++ Asymmetric cryptography
++ Hashing
+---
+Materials:
++ [Cryptography](https://en.wikipedia.org/wiki/Cryptography)
++ [Hash function](http://en.wikipedia.org/wiki/Hash_function)
+---
+</blockquote></details>
+
+<details><summary>Machine Learning</summary><blockquote>
+
+---
+Success criteria:
++ Supervised vs Non-supervised learning
++ Linear Regression
++ Logistic Regression
++ Neural Networks
+---
+Materials:
++ [Machine Learning](https://www.coursera.org/learn/machine-learning)
+---
+</blockquote></details>
+
+<details><summary>P-Complete problems</summary><blockquote>
+
+---
+Success criteria:
++ Definition
++ P vs NP
++ Approaches for NP-Complete problems
+---
+Materials:
++ [Algorithms: Design and Analysis, Part 2](https://www.coursera.org/course/algo2)
+---
+</blockquote></details>
+
+<details><summary>Optimization approaches</summary><blockquote>
+
+---
+Success criteria:
++ Genetic algorithm
++ Simulated annealing
++ Monte Carlo method
++ Gradient descent
++ Linear optimization (Simplex algorithm, Ellipsoid method)
+---
+Materials:
++ [Ellipsoid method](https://en.wikipedia.org/wiki/Ellipsoid_method)
++ [Genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm)
++ [Gradient descent](https://en.wikipedia.org/wiki/Gradient_descent)
++ [Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method)
++ [Simplex algorithm](https://en.wikipedia.org/wiki/Simplex_algorithm)
++ [Simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing)
+---
+</blockquote></details>
+
+</blockquote></details>
+
+</blockquote></details>
+
 <details><summary>Architecture knowledge</summary><blockquote>
 
 **_Expected for selected level:_**
