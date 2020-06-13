@@ -1075,7 +1075,22 @@ Materials:
 </blockquote></details>
 
 <details><summary>Spring Integration</summary><blockquote>
-This is a dropdown with text!
+
+**_Expected for selected level:_**
+
+<details><summary>Spring Integration introduction</summary><blockquote>
+
+---
+Success criteria:
++ Understnding basic concepts
++ List some basic patterns handled by Spring Integration
+---
+Materials:
++ [Develop a robust message-passing architecture with Spring Integration](http://www.javaworld.com/article/2142107/spring-framework/open-source-java-projects-spring-integration.html)
++ [Spring Integration introduction](https://docs.spring.io/spring-integration/reference/html/)
+---
+</blockquote></details>
+
 </blockquote></details>
 
 <details><summary>Spring Boot</summary><blockquote>
