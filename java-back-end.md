@@ -1079,7 +1079,24 @@ This is a dropdown with text!
 </blockquote></details>
 
 <details><summary>Spring Boot</summary><blockquote>
-This is a dropdown with text!
+
+**_Expected for selected level:_**
+
+<details><summary>Spring Boot introduction</summary><blockquote>
+
+---
+Success criteria:
++ Understnding basic concepts
++ Starter usage
+---
+Materials:
++ ["Bootiful" Applications with Spring Boot](https://www.youtube.com/watch?v=NalZ4je7ch8)
++ [Spring Boot: Efficient Development, Configuration, and Deployment](https://www.pluralsight.com/courses/spring-boot-efficient-development-configuration-deployment)
++ [Spring Boot Actuator](https://www.baeldung.com/spring-boot-actuators)
++ [Spring Boot introduction](http://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#getting-started-introducing-spring-boot)
+---
+</blockquote></details>
+
 </blockquote></details>
 
 <details><summary>Spring Security</summary><blockquote>
