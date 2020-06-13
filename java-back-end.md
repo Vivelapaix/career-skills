@@ -1010,7 +1010,68 @@ Materials:
 </blockquote></details>
 
 <details><summary>Spring Data</summary><blockquote>
-This is a dropdown with text!
+
+**_Expected for selected level:_**
+
+<details><summary>Mapping frameworks - Spring JDBC</summary><blockquote>
+
+---
+Success criteria:
++ Basic JDBC processing
++ Controlling database connections
++ JDBC batch operations
++ Simplifying JDBC operations with the SimpleJdbc classes
++ Modeling JDBC operations as Java objects
++ Common problems with parameter and data value handling
++ Initializing a DataSource
+---
+Materials:
++ [Mapping frameworks - Spring JDBC](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/jdbc.html)
+---
+</blockquote></details>
+
+<details><summary>ORMs support</summary><blockquote>
+
+---
+Success criteria:
++ Resource and transaction management
++ Exception translation
++ Hibernate setup
++ Implementing DAOs based on plain JPA
+---
+Materials:
++ [Getting Started with Spring Data JPA](https://www.pluralsight.com/courses/spring-data-jpa-getting-started)
++ [ORMs support](https://docs.spring.io/spring-framework/docs/5.0.2.RELEASE/spring-framework-reference/data-access.html#orm)
+---
+</blockquote></details>
+
+<details><summary>Programmatic transaction management</summary><blockquote>
+
+---
+Success criteria:
++ Spring Framework transaction management
++ Synchronizing resources with transactions
++ Declarative transaction management
++ Programmatic transaction management
+---
+Materials:
++ [Programmatic transaction management](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/transaction.html)
+---
+</blockquote></details>
+
+<details><summary>Spring Data REST</summary><blockquote>
+
+---
+Success criteria:
++ Introduction to Spring Data REST
+---
+Materials:
++ [Getting Started with Spring Data REST](https://www.pluralsight.com/courses/spring-data-rest-getting-started)
++ [Spring Data REST](http://docs.spring.io/spring-data/rest/docs/current/reference/html/)
++ [Use common Spring queries to access multiple NoSQL data stores](http://www.javaworld.com/article/2078898/open-source-tools/open-source-tools-open-source-java-projects-spring-data.html)
+---
+</blockquote></details>
+
 </blockquote></details>
 
 <details><summary>Spring Integration</summary><blockquote>
