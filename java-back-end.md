@@ -1191,7 +1191,16 @@ Materials:
   
 **_Expected for selected level:_**
 
+<details><summary>Spring Session introduction</summary><blockquote>
 
+---
+Success criteria:
++ Understnding basic concepts
+---
+Materials:
++ [Spring Session introduction](http://docs.spring.io/spring-session/docs/current/reference/html5/#introduction)
+---
+</blockquote></details>
 
 </blockquote></details>
 
