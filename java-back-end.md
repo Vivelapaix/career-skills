@@ -1171,7 +1171,19 @@ Materials:
   
 **_Expected for selected level:_**
 
+<details><summary>Spring Cloud introduction</summary><blockquote>
 
+---
+Success criteria:
++ Understanding basic concepts
++ List some basic components
+---
+Materials:
++ [Getting started with Spring Cloud by Josh Long](https://www.youtube.com/watch?v=SFDYdslOvu8)
++ [Spring: Spring Cloud](https://www.linkedin.com/learning/spring-spring-cloud)
++ [Spring Cloud introduction](https://spring.io/blog/2014/06/03/introducing-spring-cloud)
+---
+</blockquote></details>
 
 </blockquote></details>
 
