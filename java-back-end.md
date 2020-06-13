@@ -446,7 +446,311 @@ Materials:
 </blockquote></details>
 
 <details><summary>JVM, JDK and Tools</summary><blockquote>
-This is a dropdown with text!
+
+**_Expected for selected level:_**
+
+<details><summary>Classloading - Intermediate</summary><blockquote>
+
+---
+Success criteria:
++ Bootstrap, System and Extension classloaders
++ Current and Context Classloaders
++ How a class is loaded within JVM
+---
+Materials:
++ [Loading, Linking, and Initializing](https://docs.oracle.com/javase/specs/jvms/se7/html/jvms-5.html)
+---
+</blockquote></details>
+
+<details><summary>Garbage Collection in Java</summary><blockquote>
+
+---
+Success criteria:
++ Available Collectors
++ Parallel Collector
++ Concurrent Collector
++ Sizing the Generations
+---
+Materials:
++ [Java Garbage Collection Basics](http://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html)
++ [Java Garbage Collection Handbook](https://plumbr.io/java-garbage-collection-handbook)
++ [Java SE 8 HotSpot Virtual Machine Garbage Collection Tuning](https://docs.oracle.com/javase/10/gctuning/toc.htm)
+---
+</blockquote></details>
+
+<details><summary>HotSpot Ergonomics</summary><blockquote>
+
+---
+Success criteria:
++ Garbage collector
++ Heap size
++ Runtime compiler
+---
+</blockquote></details>
+
+<details><summary>HotSpot Performance and Tuning</summary><blockquote>
+
+---
+Success criteria:
++ Memory and Garbage Collection
++ Startup and Runtime Performance Optimization
++ Heap Monitoring
++ Thread Monitoring
++ Analysis Tools
+---
+Materials:
++ [Introduction to HotSpot JVM Performance and Tuning](https://www.ibm.com/support/knowledgecenter/SS3JSW_6.0.0/performance/performance/integrator/SIPM_HotSpotJVMIntro.html?view=embed)
++ [JVM runtime analysis](https://docs.bmc.com/docs/display/public/ars81/JVM+runtime+analysis)
++ [Tuning Java Virtual Machines (JVMs)](https://docs.oracle.com/cd/E24329_01/web.1211/e24390/jvm_tuning.htm#PERFM150)
+---
+</blockquote></details>
+
+<details><summary>HotSpot VM overview</summary><blockquote>
+
+---
+Success criteria:
++ Engine Architecture
++ Command Line Options
+---
+Materials:
++ [The JVM Architecture Explained](https://dzone.com/articles/jvm-architecture-explained)
+---
+</blockquote></details>
+
+<details><summary>Java Troubleshooting, Profiling, Monitoring and Management Tools</summary><blockquote>
+
+---
+Success criteria:
++ jconsole, Java Visual VM
++ Java Mission Control, Java Flight Recorder
+---
+Materials:
++ [Java Troubleshooting, Profiling, Monitoring and Management Tools](https://docs.oracle.com/javase/8/docs/technotes/tools/unix/s8-management-tools.html#sthref275)
+---
+</blockquote></details>
+
+<details><summary>Classloading - Advanced</summary><blockquote>
+
+---
+Success criteria:
++ Implementing your own classloader
++ Classloading within application servers
++ Classloading and OSGi
+---
+Materials:
++ [Add link]()
+---
+</blockquote></details>
+
+**_Optional for selected level:_**
+
+<details><summary>Create and Build Applications</summary><blockquote>
+
+---
+Success criteria:
++ extcheck, jdeps, java, javah, jdb
+---
+Materials:
++ [Create and Build Applications](https://docs.oracle.com/javase/8/docs/technotes/tools/unix/s1-create-build-tools.html#sthref31)
+---
+</blockquote></details>
+
+<details><summary>Internationalization Tools</summary><blockquote>
+
+---
+Success criteria:
++ native2ascii
+---
+Materials:
++ [Internationalization Tools](https://docs.oracle.com/javase/8/docs/technotes/tools/unix/s3-internationalizat-tools.html#sthref162)
+---
+</blockquote></details>
+
+<details><summary>Java DB</summary><blockquote>
+
+---
+Success criteria:
++ Java DB overview
+---
+Materials:
++ [Add link]()
+---
+</blockquote></details>
+
+<details><summary>Java Deployment Tools</summary><blockquote>
+
+---
+Success criteria:
++ javapackager, pack200, unpack200
+---
+Materials:
++ [Java Deployment Tools](https://docs.oracle.com/javase/8/docs/technotes/tools/unix/s6-deployment-tools.html#sthref214)
+---
+</blockquote></details>
+
+<details><summary>Java IDL and RMI-IIOP Tools</summary><blockquote>
+
+---
+Success criteria:
++ tnameserv, idlj, orbd, servertool
+---
+Materials:
++ [Java IDL and RMI-IIOP Tools](https://docs.oracle.com/javase/8/docs/technotes/tools/unix/s5-idl-rmi-iiop.html#sthref183)
+---
+</blockquote></details>
+
+<details><summary>Java Virtual Machine Tool Interface (JVM TI)</summary><blockquote>
+
+---
+Success criteria:
++ Java Virtual Machine Tool Interface (JVM TI) overview
+---
+Materials:
++ [Add link]()
+---
+</blockquote></details>
+
+<details><summary>Java Web Services Tools</summary><blockquote>
+
+---
+Success criteria:
++ scheamgen, wsgen, wsimport, xjc
+---
+Materials:
++ [Java Web Services Tools](https://docs.oracle.com/javase/8/docs/technotes/tools/unix/s10-web-services-tools.html#sthref310)
+---
+</blockquote></details>
+
+<details><summary>Java Web Start Tools</summary><blockquote>
+
+---
+Success criteria:
++ javaws
+---
+Materials:
++ [Java Web Start Tools](https://docs.oracle.com/javase/8/docs/technotes/tools/unix/s7-web-start-tools.html#sthref269)
+---
+</blockquote></details>
+
+<details><summary>Monitoring Tools</summary><blockquote>
+
+---
+Success criteria:
++ jcmd, jps, jstat , jstatd
+---
+Materials:
++ [Monitoring Tools](https://docs.oracle.com/javase/8/docs/technotes/tools/unix/s9-monitoring-tools.html#sthref282)
+---
+</blockquote></details>
+
+<details><summary>Remote Method Invocation (RMI) Tools</summary><blockquote>
+
+---
+Success criteria:
++ rmic, rmiregistry, rmid, serialver
+---
+Materials:
++ [Remote Method Invocation (RMI) Tools](https://docs.oracle.com/javase/8/docs/technotes/tools/unix/s4-rmi-tools.html#sthref166)
+---
+</blockquote></details>
+
+<details><summary>Scripting Tools</summary><blockquote>
+
+---
+Success criteria:
++ jjs
++ jrunscript
+---
+Materials:
++ [Scripting Tools](https://docs.oracle.com/javase/8/docs/technotes/tools/unix/s12-scripting-tools.html#sthref347)
+---
+</blockquote></details>
+
+<details><summary>Security Tools</summary><blockquote>
+
+---
+Success criteria:
++ keytool, jarsigner, policytool, kinit, klist, ktab
+---
+Materials:
++ [Security Tools](https://docs.oracle.com/javase/8/docs/technotes/tools/unix/s2-security-tools.html#sthref123)
+---
+</blockquote></details>
+
+<details><summary>The Java Virtual Machine Specification, advanced</summary><blockquote>
+
+---
+Success criteria:
++ The class File Format
++ The ClassFile Structure
++ The Internal Form of Names
++ Descriptors
++ The Constant Pool
++ Fields
++ Methods
++ Attributes
++ Format Checking
++ Constraints on Java Virtual Machine code
++ Loading, Linking, and Initializing
++ The Java Virtual Machine Instruction Set
++ HotSpot Engine Architecture
++ HotSpot Thread Implementation (Solaris)
+---
+Materials:
++ [Add link]()
+---
+</blockquote></details>
+
+<details><summary>The Java Virtual Machine Specification, basics</summary><blockquote>
+
+---
+Success criteria:
++ The Structure of the Java Virtual Machine
++ Classloader subsystem
++ Runtime data areas
++ Execution engine
+---
+Materials:
++ [The Java Virtual Machine](https://www.artima.com/insidejvm/ed2/jvmP.html)
+---
+</blockquote></details>
+
+<details><summary>The Java Virtual Machine Specification, in practice</summary><blockquote>
+
+---
+Success criteria:
++ Compiling for the Java Virtual Machine
++ ByteCode Format
++ Constants, Local Variables, and Control Constructs representation
++ Arithmetic representation
++ Accessing the Run-Time Constant Pool
++ Receiving Arguments representation
++ Invoking Methods representation
++ Class Instances representation
++ Arrays representation
++ Compiling Switches
++ Operations on the Operand Stack
++ Throwing and Handling Exceptions
++ Compiling finally
++ Synchronization representation
++ Annotations
+---
+Materials:
++ [Internal architecture of the Java Virtual Machine (JVM) Java SE 7](http://blog.jamesdbloom.com/JVMInternals.html#per_thread)
+---
+</blockquote></details>
+
+<details><summary>Troubleshooting tools</summary><blockquote>
+
+---
+Success criteria:
++ jinfo, jhat, jmap, jsadebugd, jstack
+---
+Materials:
++ [Troubleshooting tools](https://docs.oracle.com/javase/8/docs/technotes/tools/unix/s9-monitoring-tools.html#sthref282)
+---
+</blockquote></details>
+
 </blockquote></details>
 
 </blockquote></details>
