@@ -1,4 +1,143 @@
 <details> <summary>HARD SKILLS</summary><blockquote>
+  
+<details><summary>Architecture knowledge</summary><blockquote>
+
+**_Expected for selected level:_**
+
+<details><summary>Layered architecture</summary><blockquote>
+
+---
+Success criteria:
++ Different layers has to be named (presentation layer -> business layer -> persistence layer -> database) - Purpose of layer isolation (concept of Separation of Concern, layers are replaceable) - One way communication, concept of open and closed layers (open can be leaped over) - Elements of the various layers (presentation layer: jsf page, managed bean, business layer: business objects, persistence layer: persistence mgr -> mybatis, database: various SQL solutions, NoSQL)
+---
+Materials:
++ [Layered Application Guidelines](https://msdn.microsoft.com/en-us/library/ee658109.aspx)
++ [Layered Architecture : Pattern Description, Key Concepts](https://www.safaribooksonline.com/library/view/software-architecture-patterns/9781491971437/ch01.html)
+---
+</blockquote></details>
+
+<details><summary>UML Basics for Developers - Novice</summary><blockquote>
+
+---
+Success criteria:
++ Understanding purpose and importance of UML
++ Ability to read any type of UML diagrams
+---
+Materials:
++ [UML Essentials for Java](http://www.amazon.com/UML-Java%C2%BF-Programmers-Robert-Martin/dp/0131428489)
+---
+</blockquote></details>
+
+<details><summary>Architectural patterns</summary><blockquote>
+
+---
+Success criteria:
++ Understanding the basics: - Why does a clear, properly defined architecture is important? (seeing the big picture before starting the development, avoiding the big ball of mud…) - How does architecture patterns help? (help define basic characteristics/behavior of an app.) - List the various patterns (monolithic, Microservices, SOA, client-server, layered, space based, microkernel, pipe and filter...) - Understanding the differences between the pattern, when to use them (scalability, performance, ease of deployment, testability, other quality attributes)
+---
+Materials:
++ [CQRS](http://martinfowler.com/bliki/CQRS.html)
++ [Event-driven architecture](https://en.wikipedia.org/wiki/Event-driven_architecture)
++ [Event sourcing](http://martinfowler.com/eaaDev/EventSourcing.html)
++ [Event sourcing, event-driven architectures and CQRS](https://www.youtube.com/watch?v=aWUZLejW-2I)
++ [Software Architecture Fundamentals Understanding the Basics by O'Reilly](http://shop.oreilly.com/product/110000195.do)
++ [Software Architecture Patterns](http://www.oreilly.com/programming/free/software-architecture-patterns.csp)
+---
+</blockquote></details>
+
+<details><summary>Domain-driven design</summary><blockquote>
+
+---
+Success criteria:
++ - Importance of a domain expert, the ubiquitous language - Bounded context - Entity vs. Value Object, Associations, Aggregates - Typical patterns in DDD (Repository Façade, Adapter) - Anti corruption layer - Domain events
+---
+Materials:
++ [DDD Community](http://dddcommunity.org/)
++ [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/gp/product/0321125215/)
++ [Domain-Driven Design Quickly](http://www.infoq.com/minibooks/domain-driven-design-quickly)
++ [Pluralsight](http://www.pluralsight.com/courses/domain-driven-design-fundamentals)
+---
+</blockquote></details>
+
+<details><summary>Integration Patterns - Intermediate</summary><blockquote>
+
+---
+Success criteria:
++ Theoretical knowledge of most integration patterns
++ Understanding of systems integration concepts
+---
+Materials:
++ [Compact list of the patterns](http://camel.apache.org/enterprise-integration-patterns.html)
++ [Introduction to integration patterns](http://www.amazon.com/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683)
++ [Introduction to Integration With Apache Camel](https://www.pluralsight.com/courses/apache-camel-intro-integration)
+---
+</blockquote></details>
+
+<details><summary>SOA + Microservices</summary><blockquote>
+
+---
+Success criteria:
++ Understanding the concepts of both SOA and MS (service components, distributed architecture) and bringing differences in compare SOA and MS (i.e. SOA is complex, expensive, difficult to understand and implement)
++ Describing implementation topologies (API REST-based, Application REST-based topology, Centralized messaging topology)
++ Name advantages of Microservices architecture versus SOA and vice versa
+---
+Materials:
++ [Event-Driven Microservices](http://shop.oreilly.com/product/0636920047551.do)
++ [Microservice architecture patterns and best practices](http://microservices.io/)
++ [Microsoft application architecture guide. Chapter 9: Service Layer Guidelines](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ee658090(v%3dpandp.10))
++ [Service layer](http://www.microsoft.com/en-us/download/details.aspx?id=16236)
+---
+</blockquote></details>
+
+<details><summary>Typical architecture bugs/antipatterns</summary><blockquote>
+
+---
+Success criteria:
++ Architecture by implication: we go Agile, we don't need architecture Design by committee: too many person involved, but no unifying plan or vision -> one knowledgeable, accountable architect needed Analysis paralysis: too many details hide the core principles Vendor lock-in: dependency on one, big vendor Reinvent the wheel: missing communication between projects Big upfront design: designing the entire architecture at the beginning of the project when you know least about the system Armchair architecture: non-coding architects, who are not fully involved in the full lifecycle of the project
+---
+Materials:
++ [Useful reading](https://sourcemaking.com/antipatterns/software-architecture-antipatterns)
+---
+</blockquote></details>
+
+<details><summary>UML Basics for Developers - Intermediate</summary><blockquote>
+
+---
+Success criteria:
++ Ability to draw any type of UML diagrams
++ Contribution to architecture documentation
+---
+Materials:
++ [UML Concepts](Michael R. Blaha, James R Rumbaugh. Object-Oriented Modeling and Design with UML)
++ [UML Distilled](http://www.amazon.com/UML-Distilled-Standard-Modeling-Language-ebook/dp/B000OZ0N8A/ref=mt_kindle?_encoding=UTF8&me=)
+---
+</blockquote></details>
+
+<details><summary>Integration Patterns - Advanced</summary><blockquote>
+
+---
+Success criteria:
++ Practical usage of several integration patterns
+---
+Materials:
++ [Integration patterns](http://www.enterpriseintegrationpatterns.com/)
+---
+</blockquote></details>
+
+<details><summary>Message-oriented architecture</summary><blockquote>
+
+---
+Success criteria:
++ Describe some patterns: CQRS, Event-sourcing
++ Comparison between Message-oriented architecture and Event-driven Architecture
++ Drawbacks of Message-oriented architecture (transactions support, maintenance and governance of component contracts)
++ PROS and CONS of the various development process stages comparing to other patterns (i.e. development VS deployment, testability VS scalability)
+---
+Materials:
++ [Enterprise integration patterns - designing, building, and deploying messaging solutions](http://www.amazon.com/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683/)
+---
+</blockquote></details>
+
+</blockquote></details>  
 
 <details><summary>Development</summary><blockquote>
 
