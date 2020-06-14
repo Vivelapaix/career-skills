@@ -1829,6 +1829,115 @@ Materials:
 
 </blockquote></details>
 
+<details><summary>NoSQL</summary><blockquote>
+
+**_Expected for selected level:_**
+
+<details><summary>NoSQL Overview</summary><blockquote>
+
+---
+Success criteria:
++ NoSQL what does it mean
+---
+Materials:
++ [Great overview on the NoSQL concept](https://en.wikipedia.org/wiki/NoSQL)
++ [NoSQL Overview](http://martinfowler.com/nosql.html)
++ [NoSQL-SQL comparison](https://www.mongodb.com/nosql-explained)
+---
+</blockquote></details>
+
+<details><summary>Types of NoSQL Databases</summary><blockquote>
+
+---
+Success criteria:
++ Key-Value databases
++ Document databases
++ Column family stores
++ Graph Databases
+---
+Materials:
++ [Column Store 1](https://en.wikipedia.org/wiki/Column_(data_store))
++ [Column Store 2](https://en.wikipedia.org/wiki/Wide_column_store)
++ [Data Grid](https://en.wikipedia.org/wiki/Data_grid)
++ [DHT](https://en.wikipedia.org/wiki/Distributed_hash_table)
++ [Distributed Cache](https://en.wikipedia.org/wiki/Distributed_cache)
++ [Document Store](https://en.wikipedia.org/wiki/Document-oriented_database)
++ [Graph Store 1](https://en.wikipedia.org/wiki/Graph_database)
++ [Graph Store 2](https://en.wikipedia.org/wiki/Resource_Description_Framework)
++ [Graph Store/Triplestore](https://en.wikipedia.org/wiki/Triplestore)
++ [Key/Value Store](https://en.wikipedia.org/wiki/Key-value_database)
++ [Object DB](https://en.wikipedia.org/wiki/Object_database)
++ [Object Store](https://en.wikipedia.org/wiki/Object_storage)
++ [Search Engine](https://en.wikipedia.org/wiki/Search_engine_(computing))
++ [Types of NoSQL Databases](http://martinfowler.com/articles/nosqlKeyPoints.html)
++ [Types of NoSQL Databases](https://www.thoughtworks.com/insights/blog/nosql-databases-overview)
+---
+</blockquote></details>
+
+<details><summary>Choosing NoSQL database</summary><blockquote>
+
+---
+Success criteria:
++ How to choose NoSQL database (general guidelines)
+---
+Materials:
++ [Choosing NoSQL database](http://martinfowler.com/articles/nosqlKeyPoints.html)
++ [Choosing NoSQL database](https://www.thoughtworks.com/insights/blog/nosql-databases-overview)
++ [List Of NoSQL Databases](http://nosql-database.org/)
++ [NoSQL Databases: a Survey and Decision Guidance](https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d#.6u8v8asiq)
++ [NoSQL Data Stores in Research and Practice](https://www.slideshare.net/felixgessert/nosql-data-stores-in-research-and-practice-icde-2016-tutorial-extended-version-75275720)
++ [NoSQL Evaluator's Guide](http://www.dbta.com/DBTA-Downloads/WhitePapers/NoSQL-Evaluators-Guide-4614.aspx)
++ [Various NoSQL solution's comparison](https://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis)
+---
+</blockquote></details>
+
+<details><summary>Consistency</summary><blockquote>
+
+---
+Success criteria:
++ CAP theorem
+---
+Materials:
++ [Consistency](http://martinfowler.com/articles/nosqlKeyPoints.html)
+---
+</blockquote></details>
+
+<details><summary>Distribution Models</summary><blockquote>
+
+---
+Success criteria:
++ Sharding
++ Replication
+---
+Materials:
++ [Distribution Models](http://martinfowler.com/articles/nosqlKeyPoints.html)
+---
+</blockquote></details>
+
+<details><summary>Map-Reduce</summary><blockquote>
+
+---
+Success criteria:
++ Overview
+---
+Materials:
++ [Map-Reduce](http://martinfowler.com/articles/nosqlKeyPoints.html)
+---
+</blockquote></details>
+
+<details><summary>Version Stamps</summary><blockquote>
+
+---
+Success criteria:
++ Counters, GUIDs, content hashes, timestamps, or a combination of these
+---
+Materials:
++ [Version Stamps](http://martinfowler.com/articles/nosqlKeyPoints.html)
+---
+</blockquote></details>
+
+</blockquote></details>
+
 </blockquote></details>
 
 </blockquote></details>
