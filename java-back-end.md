@@ -1845,7 +1845,51 @@ Materials:
 
 <details><summary>iBATIS / MyBatis</summary><blockquote>
 
+**_Expected for selected level:_**
 
+<details><summary>iBATIS / MyBatis specifics</summary><blockquote>
+
+---
+Success criteria:
++ Difference between iBATIS / MyBatis and others ORMs
+---
+Materials:
++ [When to use MyBatis](https://www.youtube.com/watch?v=e5k2Q27R3Dc)
+---
+</blockquote></details>
+
+**_Optional for selected level:_**
+
+<details><summary>Configuration</summary><blockquote>
+
+---
+Success criteria:
++ Parts of configuration (Configuration XML or Configuration class)
+---
+Materials:
++ [Configuration](https://mybatis.github.io/mybatis-3/configuration.html)
+---
+</blockquote></details>
+
+<details><summary>Mappers</summary><blockquote>
+
+---
+Success criteria:
++ Purpose of mappers, and their basic parts
++ Result type vs result map
++ Primary Key generation (useGeneratedKeys vs selectKey)
++ SQL Injections (String Substitution)
++ Advanced Result mapping (compound objects, result type selection, nested queries)
++ Caching
++ Dynamic queries
++ DB vendor specific queries
++ Annotation based mappers
+---
+Materials:
++ [Mappers](https://mybatis.github.io/mybatis-3/configuration.html#mappers)
++ [MyBatis configuration](https://www.baeldung.com/mybatis)
+---
+</blockquote></details>
 
 </blockquote></details>
 
