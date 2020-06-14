@@ -1671,7 +1671,166 @@ This is a dropdown with text!
 </blockquote></details>
 
 <details><summary>Database</summary><blockquote>
-This is a dropdown with text!
+
+<details><summary>Database Development</summary><blockquote>
+
+<details><summary>DB Development General</summary><blockquote>
+
+**_Expected for selected level:_**
+
+<details><summary>Data Definition Language</summary><blockquote>
+
+---
+Success criteria:
++ Create
++ Drop
++ Alter
+---
+Materials:
++ [CREATE, ALTER, DROP](Robert Vieira "Beginning SQL Server 2008/2012 Programming", Chapter 3)
+---
+</blockquote></details>
+
+<details><summary>Data manipulation - Novice</summary><blockquote>
+
+---
+Success criteria:
++ Insert
++ Update
++ Delete
+---
+Materials:
++ [Add link]()
+---
+</blockquote></details>
+
+<details><summary>Data selection - Novice</summary><blockquote>
+
+---
+Success criteria:
++ Simple selections
++ Joins
+---
+Materials:
++ [Add link]()
+---
+</blockquote></details>
+
+<details><summary>RDBMS - Novice</summary><blockquote>
+
+---
+Success criteria:
++ Tables, Columns, Rows
++ Relations (Primary key, Foreign key)
++ Views
+---
+Materials:
++ [(Oracle) Basic reading](Jason Price - Oracle Database 11g SQL)
++ [(Oracle) Table basics](Jason Price - Oracle Database 11g SQL)
++ [Views](Robert Vieira "Beginning SQL Server 2008/2012 Programming", Chapter 10)
+---
+</blockquote></details>
+
+<details><summary>Data architecture - Intermediate</summary><blockquote>
+
+---
+Success criteria:
++ Database normalization forms
+---
+Materials:
++ [(Oracle) Constraints, Normalization, Denormalization](http://databases.about.com/od/specificproducts/a/normalization.htm)
+---
+</blockquote></details>
+
+<details><summary>Data manipulation - Intermediate</summary><blockquote>
+
+---
+Success criteria:
++ Merge / Upsert
+---
+Materials:
++ [Add link]()
+---
+</blockquote></details>
+
+<details><summary>Data selection - Intermediate</summary><blockquote>
+
+---
+Success criteria:
++ Unions
++ Aggregations (Group By, Distinct, Window Functions, etc.)
++ Subqueries
+---
+Materials:
++ [SQL Window Functions](https://mode.com/sql-tutorial/sql-window-functions/)
+---
+</blockquote></details>
+
+<details><summary>RDBMS - Intermediate</summary><blockquote>
+
+---
+Success criteria:
++ Cursors
++ Stored Procedures & Functions
++ Indexes
++ Triggers
++ Transaction isolation levels
+---
+Materials:
++ [(Oracle) Managing Transactions, Transaction Isolation Levels](Jason Price - Oracle Database 11g SQL)
++ [(Oracle) Packages, cursors, collections, records, bulk processing](Jason Price - Oracle Database 11g SQL)
++ [Storage procedures and functions](Robert Vieira "Beginning SQL Server 2008/2012 Programming", Chapter 12, 13)
++ [Transactions concepts. Commit and rollback transactions.](Robert Vieira "Beginning SQL Server 2008/2012 Programming", Chapter 14)
++ [Triggers](Robert Vieira "Beginning SQL Server 2008/2012 Programming", Chapter 15)
++ [Views](Robert Vieira "Beginning SQL Server 2008/2012 Programming", Chapter 10)
+---
+</blockquote></details>
+
+<details><summary>Transactions (ACID and CAP)</summary><blockquote>
+
+---
+Success criteria:
++ Atomicity
++ Consistency
++ Isolation levels (can name and explain how they work)
++ Durability
++ CAP theorem
+---
+Materials:
++ [Java Transaction Design Strategies](https://www.infoq.com/minibooks/JTDS)
+---
+</blockquote></details>
+
+<details><summary>Data architecture - Advanced</summary><blockquote>
+
+---
+Success criteria:
++ Database denormalization
+---
+Materials:
++ [(MS SQL) Constraints, Normalization, Denormalization](Beginning Microsoft SQL Server 2012 Programming by Paul Atkinson (Wiley))
++ [(Oracle) Constraints, Normalization, Denormalization](http://databases.about.com/od/specificproducts/a/normalization.htm)
+---
+</blockquote></details>
+
+<details><summary>RDBMS - Advanced</summary><blockquote>
+
+---
+Success criteria:
++ Explain Plans
++ Understanding of partitioning
+---
+Materials:
++ [(Oracle) Interpreting Query Execution Plans](Steven Feuerstein - Oracle PL/SQL Programming)
++ [(Oracle) Oracle Jobs, Advanced Queues, Partitioning, Replication, Compression (1)](http://docs.oracle.com/cd/E11882_01/server.112/e17069/toc.htm)
++ [(Oracle) Oracle Jobs, Advanced Queues, Partitioning, Replication, Compression (2)](http://docs.oracle.com/cd/E11882_01/server.112/e10706/toc.htm)
+---
+</blockquote></details>
+
+</blockquote></details>
+
+</blockquote></details>
+
 </blockquote></details>
 
 </blockquote></details>
