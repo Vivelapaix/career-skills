@@ -1777,7 +1777,69 @@ Materials:
 
 <details><summary>Hibernate</summary><blockquote>
 
+**_Expected for selected level:_**
 
+<details><summary>Hibernate and JPA</summary><blockquote>
+
+---
+Success criteria:
++ Hibernate relation to JPA
++ Difference between Hibernate and JPA
+---
+Materials:
++ [Architecture overview](https://docs.jboss.org/hibernate/stable/orm/userguide/html_single/Hibernate_User_Guide.html#architecture-overview)
++ [Hibernate Quickstart](https://docs.jboss.org/hibernate/orm/current/quickstart/html_single/)
++ [Hibernate tutorial collection](https://vladmihalcea.com/tutorials/hibernate/)
++ [Java Persistence with Hibernate](https://www.manning.com/books/java-persistence-with-hibernate-second-edition)
+---
+</blockquote></details>
+
+**_Optional for selected level:_**
+
+<details><summary>Envers</summary><blockquote>
+
+---
+Success criteria:
++ Versioning strategy, audit schema, logging
++ Extended primary key, revision id
+---
+Materials:
++ [Envers](https://docs.jboss.org/hibernate/stable/orm/userguide/html_single/Hibernate_User_Guide.html#envers)
++ [Hibernate Envers – Getting started](https://www.thoughts-on-java.org/hibernate-envers-getting-started/)
+---
+</blockquote></details>
+
+<details><summary>Hibernate specifics</summary><blockquote>
+
+---
+Success criteria:
++ HQL
++ HBM files
++ Byte-code enhancements
+---
+Materials:
++ [Bytecode Enhancement](https://docs.jboss.org/hibernate/stable/orm/userguide/html_single/Hibernate_User_Guide.html#BytecodeEnhancement)
++ [Hibernate Bytecode Enhancement](https://dzone.com/articles/hibernate-bytecode-enhancement)
++ [How to enable bytecode enhancement dirty checking in Hibernate](https://vladmihalcea.com/how-to-enable-bytecode-enhancement-dirty-checking-in-hibernate/)
++ [HQL and JPQL](https://docs.jboss.org/hibernate/stable/orm/userguide/html_single/Hibernate_User_Guide.html#hql)
++ [The anatomy of Hibernate dirty checking mechanism](https://vladmihalcea.com/the-anatomy-of-hibernate-dirty-checking/)
+---
+</blockquote></details>
+
+<details><summary>Multitenance</summary><blockquote>
+
+---
+Success criteria:
++ Separate database, separate schema, partitioned data
++ Connection provider
++ Identifier resolver, tenant id
++ Cache levels, unique ids
+---
+Materials:
++ [A Guide to Multitenancy in Hibernate 5](https://www.baeldung.com/hibernate-5-multitenancy)
++ [Multi-tenancy - Hibernate Community Documentation](https://docs.jboss.org/hibernate/stable/orm/userguide/html_single/Hibernate_User_Guide.html#multitenacy)
+---
+</blockquote></details>
 
 </blockquote></details>
 
