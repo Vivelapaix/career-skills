@@ -1143,7 +1143,144 @@ Materials:
 </blockquote></details>
 
 <details><summary>Java EE Development</summary><blockquote>
-This is a dropdown with text!
+
+<details><summary>Java EE Web Components Development</summary><blockquote>
+
+**_Expected for selected level:_**
+
+<details><summary>JavaServer Pages/Servlets</summary><blockquote>
+
+---
+Success criteria:
++ Servlet lifecycle
++ Request lifecycle
++ Redirect and Forward
++ Filter/Filters chain/Filter lifecycle
++ Cookies(time to live, expiration, sharing)
++ Session
++ Request attributes and request parameters
++ Deployment descriptor(web.xml)
++ Custom tags
++ Scopes
++ Event listners
++ URL Rewriting
++ Servlets threadsafety
++ JSP vs Servlet
+---
+Materials:
++ [Asynchronous Servlet Implementation Example](https://www.journaldev.com/2008/async-servlet-example)
++ [Java Servlet API 4.0 Specification](https://javaee.github.io/servlet-spec/downloads/servlet-4.0/servlet-4_0_FINAL.pdf)
++ [Java Servlets](http://tutorials.jenkov.com/java-servlets/httprequest.html#parameters)
++ [JSR 315: JavaTM Servlet 3.0 Specification](https://jcp.org/en/jsr/detail?id=315&cm_mc_uid=32619539646614400179493&cm_mc_sid_50200000=1443705411)
++ [JSR-000245 JavaServerTM Pages 2.1](https://jcp.org/aboutJava/communityprocess/mrel/jsr245/index.html?cm_mc_uid=32619539646614400179493&cm_mc_sid_50200000=1443705411)
+---
+</blockquote></details>
+
+<details><summary>Standard Tag Library for JavaServer Pages (JSTL)</summary><blockquote>
+
+---
+Success criteria:
++ General-Purpose Actions
++ Conditional Actions
++ Iterator Actions
++ URL Related Actions
++ Internationalization Actions
++ Formatting Actions
++ SQL Actions
++ XML Actions
++ Tag Library Validators
++ Functions
+---
+Materials:
++ [Faster Development with JSTL 1.0](http://www.oracle.com/technetwork/articles/javase/faster-141739.html)
++ [JSR 52: A Standard Tag Library for JavaServer PagesTM](https://jcp.org/en/jsr/detail?id=52)
+---
+</blockquote></details>
+
+<details><summary>Java API for WebSocket</summary><blockquote>
+
+---
+Success criteria:
++ Client/Server Configurations
++ Java API for WebSocket Annotations
++ Exception handling and Threading
++ Packaging and Deployment
++ Java EE Environment requirements
++ Server Security
+---
+Materials:
++ [JSR 356, Java API for WebSocket](http://www.oracle.com/technetwork/articles/java/jsr356-1937161.html)
+---
+</blockquote></details>
+
+**_Optional for selected level:_**
+
+<details><summary>Java API for JSON Processing</summary><blockquote>
+
+---
+Success criteria:
++ Streaming API
++ Object Model API
+---
+Materials:
++ [Java API for JSON Processing: An Introduction to JSON](http://www.oracle.com/technetwork/articles/java/json-1973242.html)
++ [JSR 353: JavaTM API for JSON Processing](https://jcp.org/en/jsr/detail?id=353)
+---
+</blockquote></details>
+
+<details><summary>JavaServer Faces</summary><blockquote>
+
+---
+Success criteria:
++ User Interface Component Model
++ Standard User Interface Components
++ Managed Bean Facility
++ Per-Request State Information
++ Application Integration
++ Rendering Model
++ Integration with JSP
++ Facelets and its use in Web Applications
++ Using JSF in Web Applications
++ Lifecycle Management
++ Ajax Integration
++ JavaScript API
++ Syntax and Semantics
++ Operations on Collection Objects
++ Annotations and pluggability
++ Dispatching Requests
++ Application Lifecycle Events
+---
+Materials:
++ [JavaServer Faces 2.2 Facelets Tag Library Documentation](http://www.oracle.com/pls/topic/lookup?ctx=javaee&id=JSFTL)
++ [JavaServer Faces 2.2 JavaScript Documentation](http://www.oracle.com/pls/topic/lookup?ctx=javaee&id=JSFJS)
++ [JavaServer Faces 2.2 JSP Tag Library Documentation](http://www.oracle.com/pls/topic/lookup?ctx=javaee&id=JSFPL)
++ [JavaServer Faces 2.2 Standard HTML Renderkit Documentation](http://www.oracle.com/pls/topic/lookup?ctx=javaee&id=JSFRK)
+---
+</blockquote></details>
+
+</blockquote></details>
+
+
+<details><summary>Java EE Business Components Development</summary><blockquote>
+
+
+
+</blockquote></details>
+
+
+<details><summary>Java EE Web Services Development</summary><blockquote>
+
+
+
+</blockquote></details>
+
+
+<details><summary>Java EE Configuration & Management</summary><blockquote>
+
+
+
+</blockquote></details>
+
 </blockquote></details>
 
 <details><summary>Java 8</summary><blockquote>
