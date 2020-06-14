@@ -1665,7 +1665,130 @@ This is a dropdown with text!
 </blockquote></details>
 
 <details><summary>Java Data Persistence</summary><blockquote>
-This is a dropdown with text!
+
+<details><summary>Java ORM</summary><blockquote>
+
+<details><summary>JPA</summary><blockquote>
+
+**_Expected for selected level:_**
+
+<details><summary>Object/Relational concept</summary><blockquote>
+
+---
+Success criteria:
++ Object/Relational Mismatch (TODO: Fill in fields via Annotation w HQL)
++ Function of Entity Manager
++ Entity, Annotations
++ Configuration and persistence.xml
+---
+Materials:
++ [JPA Tutorial](https://www.tutorialspoint.com/jpa/index.htm)
+---
+</blockquote></details>
+
+<details><summary>Object/Relational Mapping and Entity Relationships</summary><blockquote>
+
+---
+Success criteria:
++ Property, Field, Table and Column Mapping, Primary Keys and Generation
++ Type Mappings, Temporal and Enumerated Types, Embedded Types
++ @ManyToOne Relationships, @OneToOne Relationships, @OneToMany Relationships, @ManyToMany Relationships
++ Eager and Lazy Loading
+---
+Materials:
++ [Add link]()
+---
+</blockquote></details>
+
+<details><summary>Object/Relational Operations</summary><blockquote>
+
+---
+Success criteria:
++ Fetching and Inserting
++ Detachment and Merging
++ Cascading and Orphan Removal
++ Lifecycle and Validation (JSR-303)
+---
+Materials:
++ [Add link]()
+---
+</blockquote></details>
+
+<details><summary>Object/Relational Quering (JPA and native SQL)</summary><blockquote>
+
+---
+Success criteria:
++ Java Persistence Query Language (JPQL)
++ Query builder with Criteria API
++ Named Queries, Native Queries Mapping
+---
+Materials:
++ [Add link]()
+---
+</blockquote></details>
+
+<details><summary>Advanced Object/Relational Mapping</summary><blockquote>
+
+---
+Success criteria:
++ Inheritance, Single-Table and Joined-Table, Table-Per-Concrete-Class Strategy
++ Composite Primary Keys, @IdClass and @EmbeddedId, Derived Identifiers
+---
+Materials:
++ [Add link]()
+---
+</blockquote></details>
+
+<details><summary>Object/Relational Optimisation</summary><blockquote>
+
+---
+Success criteria:
++ Optimistic Read and Write Locking, Pessimistic Locking
++ Persistence Context as Transactional Cache
++ Shared Cache, Locking vs. Caching, Persistence Context as Transactional Cache
++ Lifecycle Events, Entity Listeners
+---
+Materials:
++ [JPA Locks](https://vladmihalcea.com/a-beginners-guide-to-java-persistence-locking/)
++ [Lifecycle Events, Entity Listeners (1)](https://www.objectdb.com/java/jpa/persistence/event)
++ [Lifecycle Events, Entity Listeners (2)](https://www.javabullets.com/jpa-entity-lifecycle/)
++ [Optimistic Read lock](https://vladmihalcea.com/hibernate-locking-patterns-how-does-optimistic-lock-mode-work/)
++ [Optimistic Write lock](https://vladmihalcea.com/hibernate-locking-patterns-how-does-optimistic_force_increment-lock-mode-work/)
++ [Shared Cache (1)](https://en.wikibooks.org/wiki/Java_Persistence/Caching)
++ [Shared Cache (2)](https://www.developer.com/java/using-second-level-caching-in-a-jpa-application.html)
+---
+</blockquote></details>
+
+**_Optional for selected level:_**
+
+<details><summary>Fundation and History</summary><blockquote>
+
+---
+Success criteria:
++ ORM standards history (JDO, Hibernate, JPA)
++ JPA 1.0 vs. the newest version
+---
+Materials:
++ [Add link]()
+---
+</blockquote></details>
+
+</blockquote></details>
+
+<details><summary>Hibernate</summary><blockquote>
+
+
+
+</blockquote></details>
+
+<details><summary>iBATIS / MyBatis</summary><blockquote>
+
+
+
+</blockquote></details>
+
+</blockquote></details>
+
 </blockquote></details>
 
 </blockquote></details>
