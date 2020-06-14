@@ -330,30 +330,93 @@ Materials:
 
 <details><summary>Java Software Design</summary><blockquote>
 
-Expected for selected level:
+**_Expected for selected level:_**
+
 <details><summary>GOF Patterns - Novice</summary><blockquote>
-This is a dropdown with text!
+
+---
+Success criteria:
++ Why design patterns are important (common language)?
++ Ability to describe some pattern.
++ Ability to categorize them (structural, behavioral, creational)
++ Ability to recognize them in others code.
+---
+Materials:
++ [Design Patterns - Wiki](https://en.wikipedia.org/wiki/Design_Patterns)
+---
 </blockquote></details>
 
 <details><summary>Aspect-oriented programming</summary><blockquote>
-This is a dropdown with text!
+
+---
+Success criteria:
++ Elements of AOP: - pointcut - advice (- join point) - aspect AOP use cases: - tracing, profiling - logging - pre and post conditions (design by contract) Concepts of (byte)code manipulation (javaagent, weaving, proxy, source code inject) Various implementations (ApectJ, Spring AOP) Pros and cons of AOP (cross-cutting concerns, eliminate boilerplate, debugging issues)
+---
+Materials:
++ [Advanced Aspect Oriented Programming](http://www.infoq.com/presentations/Advanced-AOP)
++ [Advanced Aspect Oriented Programming](http://www.infoq.com/presentations/Advanced-AOP)
++ [AspectJ in Action](https://www.manning.com/books/aspectj-in-action-second-edition)
++ [Separate software concerns with aspect-oriented programming](http://www.javaworld.com/article/2073918/core-java/i-want-my-aop---part-1.html)
++ [Spring AOP docs](https://docs.spring.io/spring/docs/current/spring-framework-reference/core.html#aop-api)
+---
 </blockquote></details>
 
 <details><summary>GOF Patterns - Intermediate</summary><blockquote>
-This is a dropdown with text!
+
+---
+Success criteria:
++ Ability to use them in practice (name a pattern for a given problem)
+---
+Materials:
++ [Design Patterns | Object Oriented Design](http://www.oodesign.com/)
++ [Design Patterns in Object Oriented Programming](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
+---
 </blockquote></details>
 
 <details><summary>OOP design principles</summary><blockquote>
-This is a dropdown with text!
+
+---
+Success criteria:
++ SOLID: The Single Responsibility (a class should have only a single responsibility (i.e. only one reason to change) The Open Closed Principle (A component should be open for extension but closed for modification) The Liskov Substitution Principle (Subclasses should be substitutable for their super classes) The Interface Segregation Principle (Many client specific interfaces are better than one general purpose interface) The Dependency Inversion Principle (Depend upon Abstractions. Do not depend upon concretions.)
+---
+Materials:
++ [SOLID](https://en.wikipedia.org/wiki/SOLID_%28object-oriented_design%29)
++ [SOLID Principles of Object Oriented Design](https://www.pluralsight.com/courses/principles-oo-design)
+---
 </blockquote></details>
 
 <details><summary>Functional programming</summary><blockquote>
-This is a dropdown with text!
+
+---
+Success criteria:
++ What is imperative/declarative/functional programming. Concepts of functional programming: - first class functions - pure functions - immutability Understanding the importance of functional programming (less code, less bug, avoid shared mutable state) Various JVM languages that support functional programing
+---
+Materials:
++ [Becoming functional](http://shop.oreilly.com/product/0636920030331.do)
++ [Functional Programming in Java](https://pragprog.com/book/vsjava8/functional-programming-in-java)
++ [Functional programming in Scala (The first and second lecture is light on scala and covers functional programming in general)](https://www.coursera.org/specializations/scala)
++ [Functional Programming with Java 8](https://www.youtube.com/watch?v=Ee5t_EGjv0A)
++ [Functional Thinking](http://shop.oreilly.com/product/0636920029687.do)
++ [The Joy of Functional Programming - Venkat Subramaniam](https://www.youtube.com/watch?v=__dDAD0Y_WU)
+---
 </blockquote></details>
 
-Optional for selected level:
+**_Optional for selected level:_**
+
 <details><summary>Reactive design/programming</summary><blockquote>
-This is a dropdown with text!
+
+---
+Success criteria:
++ Reactive Manifesto: Reactive Systems are: - responsive: The system responds in a timely manner if at all possible - resilient: The system stays responsive in the face of failure. - elastic: The system stays responsive under varying workload. - message driven: Reactive Systems rely on asynchronous message-passing to establish a boundary between components that ensures loose coupling, isolation, location transparency. Role of supervision. Implementations: RxJava, React, Akka Ability to apply/know the various implementation patterns, for example: - Simple Component - Let it crash - Error Kernel - Circuit Breaker Ability to design a system keeping in mind these characteristics
+---
+Materials:
++ [Reactive design patterns](https://www.manning.com/books/reactive-design-patterns)
++ [Reactive manifesto](http://www.reactivemanifesto.org/)
++ [Reactive revealed series](https://www.youtube.com/watch?v=fNEZtx1VVAk)
++ [Reactive streams](http://www.reactive-streams.org/)
++ [RxJava](https://github.com/ReactiveX/RxJava/wiki)
++ [Why Reactive? A deep dive into the technical aspects of reactive.](https://www.oreilly.com/learning/why-reactive)
+---
 </blockquote></details>
 
 </blockquote></details>
