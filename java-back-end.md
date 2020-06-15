@@ -1893,7 +1893,18 @@ Materials:
 
 <details><summary>Apache Commons</summary><blockquote>
 
+**_Expected for selected level:_**
 
+<details><summary>Commons - Intermediate</summary><blockquote>
+
+---
+Success criteria:
++ Ability to use some of the commons.* libraries (lang3, IO, Collections).
+---
+Materials:
++ [Apache Commons Wiki](http://wiki.apache.org/commons/FrontPage)
+---
+</blockquote></details>
 
 </blockquote></details>
 
