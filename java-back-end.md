@@ -1861,7 +1861,54 @@ Materials:
 </blockquote></details>
 
 <details><summary>Java third party libraries</summary><blockquote>
-This is a dropdown with text!
+
+<details><summary>Guava</summary><blockquote>
+
+**_Expected for selected level:_**
+
+<details><summary>Guava - Intermediate</summary><blockquote>
+
+---
+Success criteria:
++ Ability to understand and use the following modules: - basic utilities - collections - strings - primitives - IO - math
+---
+Materials:
++ [Developer's guide](https://github.com/google/guava/wiki)
++ [Guava | Baeldung](https://www.baeldung.com/category/guava/)
+---
+</blockquote></details>
+
+<details><summary>Guava - Advanced</summary><blockquote>
+
+---
+Success criteria:
++ Ability to understand and use the following modules: - caches - concurrency - functional idioms - eventbus - reflection
+---
+Materials:
++ [API doc](https://github.com/google/guava/wiki/ReleaseHistory)
+---
+</blockquote></details>
+
+</blockquote></details>
+
+<details><summary>Apache Commons</summary><blockquote>
+
+
+
+</blockquote></details>
+
+<details><summary>Java Logging Libraries</summary><blockquote>
+
+
+
+</blockquote></details>
+
+<details><summary>Json for Java</summary><blockquote>
+
+
+
+</blockquote></details>
+
 </blockquote></details>
 
 <details><summary>Java Data Persistence</summary><blockquote>
